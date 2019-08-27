@@ -1,8 +1,8 @@
-# Blueprints Visual Scripting for Unreal Engine Second Edition
+# Blueprints Visual Scripting for Unreal Engine - Second Edition
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/game-development/blueprints-visual-scripting-for-unreal-engine-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789347067"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789347067-original.jpeg" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Blueprints Visual Scripting for Unreal Engine - Second Edition](https://www.packtpub.com/game-development/blueprints-visual-scripting-for-unreal-engine-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789347067), published by Packt.
 
 **The faster way to build games using UE4 Blueprints**
 
